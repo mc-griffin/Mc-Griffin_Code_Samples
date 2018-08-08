@@ -1,2 +1,3 @@
-# test-repo-1
-First attempt at test repo.  Build to delete
+# McGriffin Code Samples
+
+This code repo contains code samples in C#/Amazon AWS, Python, PHP, and C++
